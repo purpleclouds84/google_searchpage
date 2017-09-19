@@ -113,3 +113,17 @@ input:hover {
 	float: right;
 	margin-right: 23px;
 }
+/* div for all the searches */
+.main_content {
+	position: relative;
+	margin-top: 3px;
+	padding-left: 170px;
+}
+/* results parapgraph */
+#results {
+	color: #777;
+	font-size: small;
+	padding-top: 10px;
+}
+
+.green_link
